@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiLibreria</string>
+    <string name="buscar">Buscar</string>
+    <string name="nombre">Titulo de libro</string>
+</resources>
